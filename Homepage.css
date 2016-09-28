@@ -1,0 +1,32 @@
+.header{width:100%;
+  background-color: white;
+  background-image:url("Images/Game_of_Thrones_title_card.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  top:0;
+  left:0;
+  box-sizing: border-box;
+  position:fixed;
+  height:75px;
+  padding: 0;
+  background-size: cover;
+  }
+body{background-color: black;
+  margin:0;}
+.menu{height:25px;
+  background-color:grey;
+  margin-top:75px;
+  margin-left: 0;
+  width:100%;}
+.menu ul {
+  margin: 0;
+  padding: 0;
+
+}
+.menu li {
+  display: inline-block;
+  width:19%;
+  position:relative;
+  text-align: center;
+}
+.page{height:3000px}
