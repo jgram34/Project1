@@ -39,11 +39,15 @@ body{background-color: black;
       margin-top: 375px}
 a{font-size: 30px;
   color: black;
-text-decoration: none;}
+text-decoration: none;
+font-family: Almendra SC;}
 h1{margin-top: 225px;
   color: white;
-  font-size: 40px;}
+  font-size: 40px;
+font-family: Almendra SC;}
 p{color: white;
-  font-size: 30px;}
-.white{color:blue;}
+  font-size: 30px;
+  font-family: Almendra SC;}
+.white{color:blue;
+font-family: Almendra SC;}
 .links{margin-top: 100px;}

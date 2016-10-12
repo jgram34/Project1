@@ -60,16 +60,21 @@ div.house2 img{
 }
 a{font-size: 30px;
   color: black;
-text-decoration: none;}
+text-decoration: none;
+font-family: Almendra SC;}
 a.white{color: orange;
           font-size: 40px;
-        text-align: center;}
+        text-align: center;
+      font-family: Almendra SC;}
 p{font-family: sans-serif;
     color: orange;
-    font-size: 30px}
+    font-size: 30px;
+  font-family: Almendra SC;}
 h1{margin-top: 250px;
   color:orange;
-  font-size: 50px}
+  font-size: 50px;
+font-family: Almendra SC;}
 .back{margin-top: -50px;
       color: white;
-      float: left;}
+      float: left;
+    font-family: Almendra SC;}

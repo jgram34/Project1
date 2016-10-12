@@ -38,4 +38,8 @@ body{background-color: black;
       margin-top: 225px}
 a{font-size: 30px;
   color: black;
-text-decoration: none;}
+text-decoration: none;
+font-family: Almendra SC;}
+h1{font-family: Almendra SC;
+    font-size: 100px;
+    color: white;}

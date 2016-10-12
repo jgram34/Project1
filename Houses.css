@@ -60,37 +60,49 @@ div.house2 img{
 }
 a{font-size: 30px;
   color: black;
-  text-decoration: none;}
+  text-decoration: none;
+font-family: Almendra SC;}
 p{font-family: sans-serif;
   color: white;
-  font-size: 30px}
+  font-size: 30px;
+font-family: Almendra SC;}
 p.red{color:red;
       font-size: 40px;
-      text-align: center;}
+      text-align: center;
+    font-family: Almendra SC;}
 p.yellow{color: yellow;
         font-size: 40px;
-        text-align: center;}
+        text-align: center;
+      font-family: Almendra SC;}
 p.green{color:green;
         font-size: 40px;
-      text-align: center;}
+      text-align: center;
+    font-family: Almendra SC;}
 p.orange{color:orange;
         font-size: 40px;
-      text-align: center;}
+      text-align: center;
+    font-family: Almendra SC;}
 a.white{color: white;
         font-size: 40px;
-      text-align: center;}
+      text-align: center;
+    font-family: Almendra SC;}
 a.red{color:red;
       font-size: 40px;
-    text-align: center;}
+    text-align: center;
+  font-family: Almendra SC;}
 a.yellow{color: yellow;
         font-size: 40px;
-      text-align: center;}
+      text-align: center;
+    font-family: Almendra SC;}
 a.green{color:green;
         font-size: 40px;
-      text-align: center;}
+      text-align: center;
+    font-family: Almendra SC;}
 a.orange{color:orange;
         font-size: 40px;
-      text-align: center;}
+      text-align: center;
+    font-family: Almendra SC;}
 a.blue{color: blue;
         font-size: 40px;
-        text-align: center;}
+        text-align: center;
+      font-family: Almendra SC;}
